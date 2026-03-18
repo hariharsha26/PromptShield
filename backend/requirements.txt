@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+tensorflow
+tensorflow-hub
+numpy
+scikit-learn
+python-multipart
+httpx
+pydantic

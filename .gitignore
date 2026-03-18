@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+backend/__pycache__/
+backend/venv/
+backend/venv311/
+backend/venv_new/
+backend/python311/
+backend/python-installer.exe
+backend/py_paths.txt
+backend/py_paths_cmd.txt
+
+node_modules/
+dist/
